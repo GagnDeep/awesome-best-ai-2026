@@ -275,6 +275,19 @@ This repository only includes tools that resolve to a `github.com` project URL. 
 
 ---
 
+#### [Tale](https://github.com/tale-project/tale)
+> **Description:** Tale is a self-hosted team workspace connecting project tasks and shared knowledge with configured AI agents and versioned automations. Tasks are started explicitly, with reports and deliverables available for review; automation definitions are versioned and deployed separately. Community software is MIT-licensed, while hosting infrastructure and configured model usage have separate costs.
+
+- **GitHub:** [github.com/tale-project/tale](https://github.com/tale-project/tale)
+- **Stars:** 32 ⭐
+- **Language:** TypeScript
+- **License:** MIT License
+- **Last Commit:** 2026-10-08 (verified 2026-10-08)
+- **Category:** agents, workflows, self-hosted
+- **Best for:** shared project context, reviewed agent tasks, and versioned AI automations
+
+---
+
 ### Search, RAG, And Knowledge Tools
 
 #### [openakita](https://github.com/openakita/openakita)
